@@ -9029,11 +9029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\User\\Documents\\GitHub\\PSSC-2019\\Exercitii\\MedFind\\MedFind\\MedFind.csproj",
+      "projectUniqueName": "E:\\User\\Documents\\GitHub\\PSSC-2019\\Bagiu_Darius\\Proiect\\MedFind\\MedFind\\MedFind.csproj",
       "projectName": "MedFind",
-      "projectPath": "E:\\User\\Documents\\GitHub\\PSSC-2019\\Exercitii\\MedFind\\MedFind\\MedFind.csproj",
+      "projectPath": "E:\\User\\Documents\\GitHub\\PSSC-2019\\Bagiu_Darius\\Proiect\\MedFind\\MedFind\\MedFind.csproj",
       "packagesPath": "C:\\Users\\dariu\\.nuget\\packages\\",
-      "outputPath": "E:\\User\\Documents\\GitHub\\PSSC-2019\\Exercitii\\MedFind\\MedFind\\obj\\",
+      "outputPath": "E:\\User\\Documents\\GitHub\\PSSC-2019\\Bagiu_Darius\\Proiect\\MedFind\\MedFind\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
